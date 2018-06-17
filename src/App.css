@@ -1,0 +1,44 @@
+/*  website --- 69C6BF 
+-- #8fe8e1
+*/
+
+body {
+  background-color: #b8e0dc;
+}
+
+* {
+  box-sizing: border-box;
+}
+.container {
+  width: 80%;
+  margin-top: 100px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #ddd;
+}
+/* .main {
+  margin-top: 100px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #ddd;
+} */
+
+input[type="text"] {
+  width: 100%;
+}
+
+#searchForm button {
+  margin-left: 10px;
+}
+
+/* #searchForm input[type="text"] {
+  width: 50%;
+} */
+/* #searchForm button {
+  justify-content: right;
+  width: 5%;
+  margin: 0 10px;
+  background-color: #e76524;
+} */
